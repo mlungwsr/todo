@@ -8,6 +8,7 @@ git clone https://github.com/mlungwsr/todo.git
 Run:
 ----
 cd todo
+
 ./app.py
 
 Access:
